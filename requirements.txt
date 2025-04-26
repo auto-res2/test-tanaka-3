@@ -1,1 +1,9 @@
-# Please list the required python packages.
+# Required python packages for D3SC experiments
+torch
+numpy
+matplotlib
+memory_profiler
+opencv-python
+scikit-image
+trimesh
+pyrender
